@@ -482,3 +482,6 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# to ignore blog json file
+/BlogPostWebAPI/blogs.json
